@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anime too
 - 📫 How to reach me: samrattikone277@gmail.com 
 - 😄 Pronouns: Zoro
-- ⚡ Fun fact: If you visit zoro2030 repository it's mine
 <br><br>
 
 
