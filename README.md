@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning Valorant
+- 🔭 Working on Three js
+- 🌱 Valorant Player, Loves gamming 
 - 🤔 If you looking for help feel free to ask 
 - 💬 Ask me about anime too
 - 📫 How to reach me: samrattikone277@gmail.com 
